@@ -16,6 +16,8 @@ This portfolio is designed to demonstrate skills in:
 
 ### La Table de Max
 *Sales analysis infographic of a fictional restaurant chain in Paris (data created with ChatGPT).*
+<a href="(https://github.com/soniaguzmanhabegger/La-Table-de-Max)" target="_blank" title="GitHub"><i class="fab fa-github"></i></a>
+
 
 ### Maven Toys
 *Sales analysis of a fictional toy store (Maven Analytics public data).*
