@@ -1,6 +1,6 @@
-# [Your Name] - Data Analysis Portfolio
+# Sonia Guzman Habegger - Data Analysis Portfolio
 
-Welcome! This repository contains the complete template for a professional, one-page data analysis portfolio website, hosted for free on GitHub Pages.
+<!--Welcome! This repository contains the complete template for a professional, one-page data analysis portfolio website, hosted for free on GitHub Pages. -->
 
 ## About This Portfolio Template
 
@@ -12,38 +12,27 @@ This portfolio is designed to demonstrate skills in:
 
 ## 🚀 Projects
 
-This template is set up to showcase your best work. You can easily customize the project cards in the `index.html` file.
+<!This template is set up to showcase your best work. You can easily customize the project cards in the `index.html` file. -->
 
-### Project Title One
-*A brief description of your project, the tools used, and the key insights derived.*
+### La Table de Max
+*Sales analysis infographic of a fictional restaurant chain in Paris (data created with ChatGPT).*
 
-### Project Title Two
-*A brief description of your project, the tools used, and the key insights derived.*
+### Maven Toys
+*Sales analysis of a fictional toy store (Maven Analytics public data).*
 
-### Project Title Three
-*A brief description of your project, the tools used, and the key insights derived.*
+<!--### Project Title Three-->
+<!--*A brief description of your project, the tools used, and the key insights derived.*-->
 
 
 ## 🛠️ Skills
 
 Update the `index.html` file to reflect your personal technical skillset. The template is organized into key categories:
 
-- **Data Visualization**: Power BI, Tableau, Matplotlib, etc.
-- **Data Analysis**: SQL, Python (Pandas), R, Excel, etc.
-- **Data Modeling**: Power Query, DAX, Star Schema Design, etc.
-- **Tools**: List any other relevant tools like Power BI Service, specific cloud platforms, etc.
+- **Data Visualization**: Power BI.
+- **Data Modeling**: Power Query, DAX, Star Schema Design.
+- **Reporting**: Visualizations adapted to Project, Data Insights, Storytelling, User Experience.
+<!--- **Data Analysis**: SQL, Python (Pandas), R, Excel, etc.-->
 
-## 💡 How to Use This Template
-
-Creating your own portfolio from this template is a simple, four-step process.
-
-### 1. Create a New Repository from this Template
-Click the green **"Use this template"** button at the top of this repository page, then select **"Create a new repository"**.
-
-### 2. Name Your Repository for GitHub Pages
-This is the most important step. To turn your portfolio into a live website, you **must** name your new repository in the following format:
-`your-username.github.io`
-*(Replace `your-username` with your actual GitHub username.)*
 
 ### 3. Customize Your Portfolio
 Open the `index.html` file and begin personalizing it. The file contains helpful `<!--💡UPDATE: ... -->` comments to guide you on where to change:
