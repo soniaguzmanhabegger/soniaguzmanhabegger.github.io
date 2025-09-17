@@ -16,12 +16,9 @@ This portfolio is designed to demonstrate skills in:
 
 ### La Table de Max
 *Sales analysis infographic of a fictional restaurant chain in Paris (data created with ChatGPT).*
-![Project Screenshot](./La_Table_de_Max_screenshot.png)
+
 # 📷 Project Preview
-
-[![Preview](./La Table de Max screenshot.png)](./La_Table_de_Max_screenshot.png)
-
-
+![Project Screenshot](./La_Table_de_Max_screenshot.png)
 
 <a class="github-button"
    href="[https://github.com/your-username/your-repo-name](https://github.com/soniaguzmanhabegger/La-Table-de-Max)"
