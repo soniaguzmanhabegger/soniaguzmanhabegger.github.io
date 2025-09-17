@@ -29,7 +29,7 @@ This portfolio is designed to demonstrate skills in:
    data-size="large"
    aria-label="Star your-repo-name on GitHub">
 
-👉 [View PDF](./pdf/La_Table_de_Max.pdf)
+👉 [View PDF](./La_Table_de_Max.pdf)
 
 
 
