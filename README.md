@@ -16,10 +16,10 @@ This portfolio is designed to demonstrate skills in:
 
 ### La Table de Max
 *Sales analysis infographic of a fictional restaurant chain in Paris (data created with ChatGPT).*
-![Project Screenshot](./La Table de Max screenshot.png)
+![Project Screenshot](./La_Table_de_Max_screenshot.png)
 # 📷 Project Preview
 
-[![Preview](./La Table de Max screenshot.png)](./La Table de Max screenshot.png)
+[![Preview](./La Table de Max screenshot.png)](./La_Table_de_Max_screenshot.png)
 
 
 
