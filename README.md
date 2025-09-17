@@ -28,12 +28,8 @@ This portfolio is designed to demonstrate skills in:
    data-icon="octicon-star"
    data-size="large"
    aria-label="Star your-repo-name on GitHub">
-   Star
-</a>
-<script async defer src="https://buttons.github.io/buttons.js"></script>
-👉 [View PDF](./pdf/Restaurant chain - La Table de Max.pdf)
 
-
+👉 [View PDF](./pdf/La_Table_de_Max.pdf)
 
 
 
