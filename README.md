@@ -24,6 +24,8 @@ This portfolio is designed to demonstrate skills in:
    Star
 </a>
 <script async defer src="https://buttons.github.io/buttons.js"></script>
+👉 [View PDF](./assets/images/Project-One.pdf)
+
 
 
 
