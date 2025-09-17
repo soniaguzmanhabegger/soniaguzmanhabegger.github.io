@@ -16,6 +16,8 @@ This portfolio is designed to demonstrate skills in:
 
 ### La Table de Max
 *Sales analysis infographic of a fictional restaurant chain in Paris (data created with ChatGPT).*
+![Project Screenshot](./assets/images/La Table de Max.png)
+
 <a class="github-button"
    href="[https://github.com/your-username/your-repo-name](https://github.com/soniaguzmanhabegger/La-Table-de-Max)"
    data-icon="octicon-star"
@@ -24,7 +26,7 @@ This portfolio is designed to demonstrate skills in:
    Star
 </a>
 <script async defer src="https://buttons.github.io/buttons.js"></script>
-👉 [View PDF](./assets/images/Project-One.pdf)
+👉 [View PDF](./pdf/Restaurant chain - La Table de Max.pdf)
 
 
 
