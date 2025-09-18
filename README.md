@@ -37,11 +37,17 @@ This portfolio is designed to demonstrate skills in:
 *Sales analysis of a fictional toy store (Maven Analytics public data).*
 
 # 📷 Project Preview
-![Project Screenshot](./La_Table_de_Max_screenshot.png)
+![Project Screenshot](./Maven_Toys.png)
 
 
-<!--### Project Title Three-->
-<!--*A brief description of your project, the tools used, and the key insights derived.*-->
+<a class="github-button"
+   href="[https://github.com/your-username/your-repo-name](https://github.com/soniaguzmanhabegger/La-Table-de-Max)"
+   data-icon="octicon-star"
+   data-size="large"
+   aria-label="Star your-repo-name on GitHub">
+
+👉 [View PDF](./La_Table_de_Max.pdf)
+
 
 
 ## 🛠️ Skills
