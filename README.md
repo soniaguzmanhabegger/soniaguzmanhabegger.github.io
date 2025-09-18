@@ -36,6 +36,10 @@ This portfolio is designed to demonstrate skills in:
 ### Maven Toys
 *Sales analysis of a fictional toy store (Maven Analytics public data).*
 
+# 📷 Project Preview
+![Project Screenshot](./La_Table_de_Max_screenshot.png)
+
+
 <!--### Project Title Three-->
 <!--*A brief description of your project, the tools used, and the key insights derived.*-->
 
