@@ -46,7 +46,7 @@ This portfolio is designed to demonstrate skills in:
    data-size="large"
    aria-label="Star your-repo-name on GitHub">
 
-👉 [View PDF](./La_Table_de_Max.pdf)
+👉 [View PDF](./Maven_Toys.pdf)
 
 
 
