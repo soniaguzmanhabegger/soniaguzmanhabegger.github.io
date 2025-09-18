@@ -26,7 +26,7 @@ This portfolio is designed to demonstrate skills in:
    data-size="large"
    aria-label="Star your-repo-name on GitHub">
 
-👉 [View the project Repository](https://github.com/soniaguzmanhabegger/La_Table_de_Max-app)
+👉 [View the La Table de Max Project Repository](https://github.com/soniaguzmanhabegger/La_Table_de_Max)
 
 
 👉 [View PDF](./La_Table_de_Max.pdf)
