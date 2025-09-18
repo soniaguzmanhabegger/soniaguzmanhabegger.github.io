@@ -28,6 +28,7 @@ This portfolio is designed to demonstrate skills in:
 
 👉 [View the project Repository](https://github.com/soniaguzmanhabegger/La-Table-de-Max-app)
 
+
 👉 [View PDF](./La_Table_de_Max.pdf)
 
 
