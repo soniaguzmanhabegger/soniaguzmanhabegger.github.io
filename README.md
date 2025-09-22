@@ -97,7 +97,6 @@ This portfolio is designed to demonstrate skills in:
 
 👉 [View Maven Toys Project Repository](https://github.com/soniaguzmanhabegger/Maven_Toys) 
 
-
 👉 [View PDF](./Maven_Toys.pdf)
 
 
