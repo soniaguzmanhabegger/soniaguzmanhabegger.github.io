@@ -17,15 +17,15 @@
 <!--Welcome! This repository contains the complete template for a professional, one-page data analysis portfolio website, hosted for free on GitHub Pages. -->
 
 ## 🚀 About Me 
-I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
+I'm a Food Scientist by education, and through product development projects, I started to become more interested into the opportunity behind this developments. I got interested in consumer insights and finding where the market opportunity lied. This organic transition propulsed me into business intelligence / data analysis. I am passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
 
-My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
+My focus is on building BI reports that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
 
-When I'm not working with data, I enjoy scrapbooking, preparing trips with storyboarding, and listening to music. 
 
----
+When I'm not working with data, I enjoy scrapbooking, preparing trips with storyboarding, and listening to music.
+
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
+<!--  ### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/) -->
 
 ---      
 ## 🔭 What I'm Currently Working On 
