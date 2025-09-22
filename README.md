@@ -44,7 +44,14 @@ This portfolio is designed to demonstrate skills in:
 - Transforming complex data into actionable insights
 
 ---
+## 🛠️ Skills
 
+- **Data Visualization**: Power BI.
+- **Data Modeling**: Power Query, DAX, Star Schema Design.
+- **Reporting**: Visualizations adapted to Project, Data Insights, Storytelling, User Experience.Insights
+<!--- **Data Analysis**: SQL, Python (Pandas), R, Excel, etc.-->
+
+---
 
 ## 🚀 Projects
 
@@ -96,10 +103,5 @@ This portfolio is designed to demonstrate skills in:
 
 ---
 
-## 🛠️ Skills
 
-- **Data Visualization**: Power BI.
-- **Data Modeling**: Power Query, DAX, Star Schema Design.
-- **Reporting**: Visualizations adapted to Project, Data Insights, Storytelling, User Experience.
-<!--- **Data Analysis**: SQL, Python (Pandas), R, Excel, etc.-->
 
