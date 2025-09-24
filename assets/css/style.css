@@ -149,7 +149,7 @@ nav ul li a:hover::after {
     font-family: var(--font-heading);
     font-size: 3rem;
     font-weight: 700;
-    margin-bottom: 70px;
+    margin-bottom: 50px;
     position: relative;
     color: var(--primary-color);
 }
@@ -157,7 +157,7 @@ nav ul li a:hover::after {
 .section h2::after {
     content: '';
     position: absolute;
-    bottom: -20px;
+    bottom: -15px;
     left: 50%;
     transform: translateX(-50%);
     width: 70px;
